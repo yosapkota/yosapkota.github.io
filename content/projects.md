@@ -13,7 +13,7 @@ Senior Design in Progress: [Battlebot](https://amarokbot.com/).
 We programmed TI's [MSP430G2553](https://www.ti.com/product/MSP430G2553) microcontroller to learn about microcontrollers and used functionalilites like [interrupts](https://github.com/yosapkota/MSP430-Projects/tree/main/Lab4), [UART](https://github.com/yosapkota/MSP430-Projects/tree/main/Lab5), [ADC](https://github.com/yosapkota/MSP430-Projects/tree/main/ADC), PWM etc. Additional peripheral implementations can be found [here](https://github.com/yosapkota/MSP430-Projects).
 
 
-### Programming [TM4C123GXL Launchpad](https://www.ti.com/tool/EK-TM4C123GXL)
+### Programming TM4C123GXL Launchpad
 
 Programmed Tiva C series launchpad to implement ADC,  PWM to control servo motor, traffic light simulator & stepper motor control using Finite State Machines, communication protocols like SPI to interface a display, and stepper-motor driven joystick controlled toy car.
 
