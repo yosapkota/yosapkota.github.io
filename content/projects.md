@@ -10,7 +10,7 @@ Senior Design in Progress: [Battlebot](https://amarokbot.com/).
 
 ### MSP430 Microcontroller
 
-We programmed TI's [MSP430G2553](https://www.ti.com/product/MSP430G2553) microcontroller to learn about microcontrollers and used functionalilites like [interrupts](https://github.com/yosapkota/MSP430-Projects/tree/main/Lab4), [UART](https://github.com/yosapkota/MSP430-Projects/tree/main/Lab5), [ADC](https://github.com/yosapkota/MSP430-Projects/tree/main/ADC), PWM etc. Additional peripheral implementations can be found [here](https://github.com/yosapkota/MSP430-Projects).
+Programmed TI's [MSP430G2553](https://www.ti.com/product/MSP430G2553) microcontroller to learn about microcontrollers and used functionalilites like [interrupts](https://github.com/yosapkota/MSP430-Projects/tree/main/Lab4), [UART](https://github.com/yosapkota/MSP430-Projects/tree/main/Lab5), [ADC](https://github.com/yosapkota/MSP430-Projects/tree/main/ADC), PWM etc. Additional peripheral implementations can be found [here](https://github.com/yosapkota/MSP430-Projects).
 
 
 ### Programming TM4C123GXL Launchpad
