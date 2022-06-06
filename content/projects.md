@@ -6,7 +6,7 @@ slug = "projects"
 Some of the projects that I've worked on:
 
 ### BATTLE BOTS
-Senior Design in Progress: [Battlebot](https://amarokbot.com/).
+Programmed ESP32 using ESP-NOW protocol to establish two-way wireless communication between two ESP32 devices and implemented touch control of the LED patterns on the battlebot
 
 ### MSP430 Microcontroller
 
