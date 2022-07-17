@@ -5,25 +5,27 @@ slug = "projects"
 
 Some of the projects that I've worked on:
 
+## EMBEDDED SYSTEMS 
+- ### MSP430 Microcontroller
+Programmed TI's [MSP430G2553](https://www.ti.com/product/MSP430G2553) microcontroller in C to learn about microcontrollers and used functionalilites like [interrupts](https://github.com/yosapkota/MSP430-Projects/tree/main/Lab4), [UART](https://github.com/yosapkota/MSP430-Projects/tree/main/Lab5), [ADC](https://github.com/yosapkota/MSP430-Projects/tree/main/ADC), PWM etc.
+
+- ### TM4C123GXL Launchpad
+Programmed Tiva C series launchpad in C to implement ADC,  PWM to control servo motor, traffic light simulator & stepper motor control using Finite State Machines, communication protocols like SPI to interface a display, and stepper-motor driven joystick controlled [toy car](https://github.com/yosapkota/Embedded-Projects/tree/main/Stepper_Motor_Car), interface with temperature and humidity sensor [DHT11](https://github.com/yosapkota/Embedded-Projects/tree/main/DHT11), Ultrasonic distance sensor [HC-SR04](https://github.com/yosapkota/Embedded-Projects/tree/main/HC-SR04%20Distance%20Sensor)
+
 ### BATTLE BOTS
 Programmed ESP32 using ESP-NOW protocol to establish two-way wireless communication between two ESP32 devices and implemented touch control of the LED patterns on the battlebot
 
-### MSP430 Microcontroller
-
-Programmed TI's [MSP430G2553](https://www.ti.com/product/MSP430G2553) microcontroller to learn about microcontrollers and used functionalilites like [interrupts](https://github.com/yosapkota/MSP430-Projects/tree/main/Lab4), [UART](https://github.com/yosapkota/MSP430-Projects/tree/main/Lab5), [ADC](https://github.com/yosapkota/MSP430-Projects/tree/main/ADC), PWM etc. Additional peripheral implementations can be found [here](https://github.com/yosapkota/MSP430-Projects).
-
-
-### Programming TM4C123GXL Launchpad
-
-Programmed Tiva C series launchpad to implement ADC,  PWM to control servo motor, traffic light simulator & stepper motor control using Finite State Machines, communication protocols like SPI to interface a display, and stepper-motor driven joystick controlled toy car.
+### Digital Signal Processing
+An audio signal sampled at 22,050 Hz is resampled at 48 KHz using three different methods, implemented using [MATLAB](https://github.com/yosapkota/Sampling-Rate-Conversion)
 
 ### VHDL Codes
 
 Some [VHDL codes](https://github.com/yosapkota/VHDL-Examples) written using Xilinx Vivado.
 
-### Coding Projects
+## Programming in C++
 
 Some of the projects that I've done for CS classes and for fun.\
 [Sudoku Solver](https://github.com/yosapkota/Sudoku-Solver)\
 [Cops and Robbers Game](https://github.com/yosapkota/Cops-and-Robbers)\
-[Word and Ladder Game](https://github.com/yosapkota/Words-and-Ladders-Game)
+[Word and Ladder Game](https://github.com/yosapkota/Words-and-Ladders-Game)\
+[Path Finder](https://github.com/yosapkota/Pathfinder)
