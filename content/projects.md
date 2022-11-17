@@ -12,7 +12,7 @@ Some of the projects that I've worked on so far:
  <!--- ![TM4C123GH LaunchPad](/images/tiva.jpg) -->
 
 <center>
- <img src="/images/tiva.jpg" alt="Tiva C" style="height: 150px; width:150px;"/>
+ <img src="/images/tiva.jpg" alt="Tiva C" style="height: 200px; width: 200 px;"/>
  </center>
 
 Programmed Tiva C series launchpad in C to implement ADC,  PWM to control servo motor, traffic light simulator & stepper motor control using Finite State Machines, communication protocols like SPI to interface a display, and stepper-motor driven joystick controlled [toy car](https://github.com/yosapkota/Embedded-Projects/tree/main/Stepper_Motor_Car), interface with temperature and humidity sensor [DHT11](https://github.com/yosapkota/Embedded-Projects/tree/main/DHT11), Ultrasonic distance sensor [HC-SR04](https://github.com/yosapkota/Embedded-Projects/tree/main/HC-SR04%20Distance%20Sensor)

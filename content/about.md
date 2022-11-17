@@ -10,7 +10,7 @@ Hi! I'm Yogesh Sapkota, a graduate Electrical and Computer Engineering student a
 I am interested in electronics, programming embedded systems and machine learning on embedded devices.
 Currently, I am working on developing a variable frequency drive for three-phase induction motor using Arty-A7 FPGA development board. 
 
-Here's a [link](https://shorturl.at/cBKLO) to my resume. 
+Here's a <a href="/images/Yogesh_Sapkota_Resume.pdf">link </a> to my resume. 
 
 I am a huge [Formula 1](https://www.formula1.com/) and [FC Barcelona](https://www.fcbarcelona.com/en/) fan. 
 
