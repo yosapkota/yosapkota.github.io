@@ -16,7 +16,7 @@ author = "Yogesh Sapkota"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Yogesh Sapkota's personal website"
 keywords = "blog,developer,personal"
-info = ["Electrical Engineering Student"]
+info = ["Graduate EE Student at Youngstown State"]
 avatarURL = "images/fav.png"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
@@ -138,4 +138,8 @@ url = "projects/"
 #weight = 3
 #url = "contact/"
 
-
+#add raw html in markdown
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
