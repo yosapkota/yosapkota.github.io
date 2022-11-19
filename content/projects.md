@@ -39,23 +39,22 @@ Programmed ESP32 using ESP-NOW protocol to establish two-way wireless communicat
 
 An audio signal sampled at 22,050 Hz is resampled at 48 KHz using three different methods, implemented using [MATLAB](https://github.com/yosapkota/Sampling-Rate-Conversion)
 
-### VHDL Codes
+### Digital Design using VHDL
 <center>
  <img src="/images/counter.png" alt="VHDL Example" style="height: 200px; width: 200 px; border-radius:20px"/>
  </center>
 
-Some [VHDL codes](https://github.com/yosapkota/VHDL-Examples) written using Xilinx Vivado.
+Some [VHDL codes](https://github.com/yosapkota/VHDL-Examples) written using Xilinx Vivado for computer design class.
 
+## C++ Programming
 
-## Programming in C++
+<center>
+<a href="https://github.com/yosapkota/Sudoku-Solver"><img src="/images/sudokusolver.png" alt="ConvexHull" style="width: 400px; height: 175x;
+border-radius: 4px "></a>
+</center>
 
 Some of the projects that I've done for CS classes and for fun.\
-[Sudoku Solver](https://github.com/yosapkota/Sudoku-Solver) 
-
-<a href="https://github.com/yosapkota/Cops-and-Robbers"><img src="/images/copsrobber.png" alt="ConvexHull" style="width: 200px; height: 100px;
-border-radius: 4px "></a>
-
-<!-- [Cops and Robbers Game](https://github.com/yosapkota/Cops-and-Robbers)\ -->
-
+[Sudoku Solver](https://github.com/yosapkota/Sudoku-Solver) \
+ [Cops and Robbers Game](https://github.com/yosapkota/Cops-and-Robbers)\
 [Word and Ladder Game](https://github.com/yosapkota/Words-and-Ladders-Game)\
 [Path Finder](https://github.com/yosapkota/Pathfinder)
