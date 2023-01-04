@@ -7,7 +7,7 @@ author = "Yogesh Sapkota"
 +++
 
 Hi! I'm Yogesh Sapkota, a graduate Electrical and Computer Engineering student at Youngstown State University. \
-I am interested in electronics, programming embedded systems and machine learning on embedded devices.
+I am interested in electronics, programming embedded systems and machine learning.
 Currently, I am working on developing a variable frequency drive for three-phase induction motor using Arty-A7 FPGA development board. 
 
 Here's a <a href="/images/Yogesh_Sapkota_Resume.pdf">link </a> to my resume. 
