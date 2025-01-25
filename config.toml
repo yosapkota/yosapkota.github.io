@@ -16,7 +16,7 @@ author = "Yogesh Sapkota"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Yogesh Sapkota's personal website"
 keywords = "blog,developer,personal"
-info = ["Graduate EE Student at Youngstown State"]
+info = ["Electrical Engineer, MS EE YSU '23, BS EE YSU '22"]
 avatarURL = "images/fav.png"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"

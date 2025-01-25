@@ -6,11 +6,9 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Yogesh Sapkota"
 +++
 
-Hi! I'm Yogesh Sapkota, a graduate Electrical and Computer Engineering student at Youngstown State University. \
-I am interested in electronics, programming embedded systems and machine learning.
-Currently, I am working on developing a variable frequency drive for three-phase induction motor using Arty-A7 FPGA development board. 
+Hi! I'm Yogesh Sapkota, EE graduate from Youngstown State University. \
+I am interested in electronics & hardware design, programming embedded systems and machine learning. 
 
-Here's a <a href="/images/Yogesh_Sapkota_Resume.pdf">link </a> to my resume. 
 
 I am a huge [Formula 1](https://www.formula1.com/) and [FC Barcelona](https://www.fcbarcelona.com/en/) fan. 
 
