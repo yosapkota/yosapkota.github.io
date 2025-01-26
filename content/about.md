@@ -6,7 +6,7 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Yogesh Sapkota"
 +++
 
-Hi! I'm Yogesh Sapkota, EE graduate from Youngstown State University, currently at Luxium Solutions. \
+Hi! I'm Yogesh Sapkota, EE graduate from Youngstown State University, currently EE at Luxium Solutions. \
 I am interested in electronics & hardware design, programming embedded systems and machine learning. 
  
 
